@@ -1,0 +1,24 @@
+{
+  "name": "cicd-demo",
+  "version": "1.0.0",
+  "description": "This is a demo of cicd",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CHANDEL1234/cicd-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CHANDEL1234/cicd-demo/issues"
+  },
+  "homepage": "https://github.com/CHANDEL1234/cicd-demo#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
